@@ -2,8 +2,8 @@
  Aplikasi PeduliDiri (Catatan Perjalanan) PHP Native tanpa menggunakan Database
  
  <br/>
- Ini adalah project saya saat Uji Kompetensi Keahlian Informatika
+ Ini adalah project UKK 2022 - SMK Thursina YBM PLN
  <br/>
  <br/>
 
-Demo : <a href="https://app-pedulidiri.herokuapp.com/">Klik disini</a>
+Demo : <a href="#">Klik disini</a>
