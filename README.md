@@ -1,4 +1,4 @@
-# Peduli Diri
+# Peduli Diri Aplication
  Aplikasi PeduliDiri (Catatan Perjalanan) PHP Native tanpa menggunakan Database
  <br/>
  Ini adalah project UKK 2022 - SMK Thursina YBM PLN
